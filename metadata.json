@@ -1,0 +1,6 @@
+{
+  "name": "Aincrad Key Assistant",
+  "description": "Dark neon assistant for navigating verification workflows and retrieving access keys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
